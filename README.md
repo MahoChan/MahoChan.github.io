@@ -1,5 +1,4 @@
 # HomePage
-There is something wrong.
-In the setting->Code and automation->pages->GitHub Pages option, I can't find the links like username.github.io (2022-08-23)
-For instance
-https://blog.csdn.net/mubaiyang2019/article/details/126159307
+The homepage will be continuously updated, last updated on (2022-08-24)
+
+Thanks for Dr.Wang and Ziyang Chen. The design of this website originates from Dr.Wang and the idea comes from Ziyang Chen.
